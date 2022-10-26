@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">kotlin_one</string>
+    <string name="press_button">Нажми</string>
+    <string name="label_property_1">Свойство 1</string>
+    <string name="label_property_2">Свойство 2</string>
+    <string name="label_property">Для вывода свойств нажать кнопку</string>
+    <string name="label_object1">Объект 1</string>
+    <string name="label_object2">Объект 2</string>
+</resources>

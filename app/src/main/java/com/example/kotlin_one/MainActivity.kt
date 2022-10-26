@@ -1,5 +1,5 @@
 package com.example.kotlin_one
-
+//Initial Commit is PullRequest (task1)
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
